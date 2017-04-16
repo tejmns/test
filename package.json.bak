@@ -1,0 +1,25 @@
+{
+  "name": "@tej537/myapp",
+  "version": "1.0.0",
+  "description": "Simple node application for practice ",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "SrikarTej",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejmns/Nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tejmns/Nodejs/issues"
+  },
+  "homepage": "https://github.com/tejmns/Nodejs#readme",
+  "keywords": [
+    "npm"
+  ],
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
