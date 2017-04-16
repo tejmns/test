@@ -1,6 +1,6 @@
 {
-  "name": "@tej/myapp",
-  "version": "1.0.0",
+  "name": "tej",
+  "version": "1.0.1",
   "description": "Simple node application for practice ",
   "main": "app.js",
   "scripts": {
@@ -10,12 +10,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tejmns/Nodejs.git"
+    "url": "git+https://github.com/tejmns/test.git"
   },
   "bugs": {
-    "url": "https://github.com/tejmns/Nodejs/issues"
+    "url": "https://github.com/tejmns/test/issues"
   },
-  "homepage": "https://github.com/tejmns/Nodejs#readme",
+  "homepage": "https://github.com/tejmns/test#readme",
   "keywords": [
     "npm"
   ],
